@@ -236,7 +236,7 @@ export default function Hero() {
                 transition={{ type: "spring", stiffness: 280, damping: 22 }}
               >
                 <Image
-                  src="/profile.jpg"
+                  src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/profile.jpg`}
                   alt="Siddartha Bandi — Data Scientist & AI Engineer"
                   fill
                   className="object-cover object-top"
