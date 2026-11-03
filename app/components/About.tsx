@@ -11,8 +11,8 @@ const domainCards = [
   },
   {
     icon: "🧠",
-    title: "Medical Deep Learning",
-    desc: "ResNet, YOLO & U-Net for stroke, cardiac & liver",
+    title: "Medical Imaging Review",
+    desc: "Literature review: ResNet, YOLO & U-Net across clinical domains",
   },
   {
     icon: "💳",
@@ -30,7 +30,7 @@ const quickFacts = [
   { label: "Degree", value: "MS Data Science" },
   { label: "University", value: "Univ. of North Dakota" },
   { label: "Focus", value: "ML · DL · Data Eng." },
-  { label: "Location", value: "Grand Forks, ND" },
+  { label: "Location", value: "Minneapolis, MN" },
 ];
 
 export default function About() {
@@ -70,8 +70,8 @@ export default function About() {
           </p>
           <p>
             I&apos;ve engineered automated Python pipelines that process decades of satellite
-            imagery, built deep learning systems for medical image analysis, and developed risk
-            models that directly reduced compliance overhead at a leading financial institution.
+            imagery, reviewed deep learning approaches for medical image analysis, and developed
+            risk models that directly reduced compliance overhead at a leading financial institution.
             I love turning messy, high-dimensional data into clean, actionable intelligence.
           </p>
           <p>

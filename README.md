@@ -23,7 +23,7 @@ Personal portfolio website for **Siddartha Bandi**, Data Scientist & AI Engineer
 - **Hero** — Two-column split with profile photo, typewriter role animation, and CTA buttons
 - **About** — Bio, quick facts, and domain expertise cards
 - **Technical Skills** — Animated proficiency bars and full tech badge cloud
-- **Featured Projects** — Satellite imagery pipeline, medical image analysis, FinTech risk models
+- **Featured Projects** — Satellite imagery pipeline, medical image analysis (literature review), FinTech risk models, multi-level fraud detection
 - **Contact** — LinkedIn, GitHub, and email links
 
 ---
@@ -35,7 +35,7 @@ npm install
 npm run dev
 ```
 
-Open [https://bandisiddartha.github.io/siddartha-portfolio/](https://bandisiddartha.github.io/siddartha-portfolio/).
+Open [http://localhost:3000](http://localhost:3000).
 
 ## Building
 
